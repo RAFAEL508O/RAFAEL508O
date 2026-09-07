@@ -14,13 +14,13 @@ Olá! Eu sou o Raphael, tenho 15 anos e moro em Santana de Parnaíba, SP.
 
 Atualmente, estou fazendo um curso de programação com foco em **Python** e estou cada vez mais interessado na área de tecnologia.
 
-Gosto muito de aprender coisas novas e estou sempre disposto a desenvolver meus conhecimentos e melhorar minhas habilidades. Meu objetivo é continuar estudando, adquirir experiência e, futuramente, **trabalhar profissionalmente na área de tecnologia e programação**.
+Gosto muito de aprender coisas novas e estou sempre disposto a desenvolver meus conhecimentos e melhorar minhas habilidades.
+
+Meu objetivo é continuar estudando, adquirir experiência e, futuramente, **trabalhar profissionalmente na área de tecnologia e programação**.
 
 ---
 
 ## 🛠️ Tecnologias
-
-Atualmente estou estudando e desenvolvendo conhecimentos em:
 
 <div align="center">
 
@@ -39,28 +39,8 @@ Atualmente estou estudando e desenvolvendo conhecimentos em:
 - 🐍 Python
 - 💡 Lógica de programação
 - 🔧 Git e GitHub
-- 💻 Desenvolvimento de projetos
-- 🚀 Fundamentos da programação
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-### 🚀 Sempre aprendendo e evoluindo!
-
-</div>
-
----
-
-## 📈 Minha evolução
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RAFAEL508O&theme=tokyonight)
-
-</div>
+- 💻 Fundamentos da programação
+- 🚀 Novas tecnologias
 
 ---
 
@@ -79,7 +59,9 @@ Atualmente estou estudando e desenvolvendo conhecimentos em:
 <div align="center">
 
 <a href="https://github.com/RAFAEL508O">
+
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
 </a>
 
 </div>
