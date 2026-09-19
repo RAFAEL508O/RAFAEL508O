@@ -76,4 +76,4 @@ Meu objetivo é continuar estudando, adquirir experiência e, futuramente, **tra
 
 </div>
 
-![Uploading image.png…]()
+<img width="480" height="424" alt="image" src="https://github.com/user-attachments/assets/c7c35217-e1b0-4e4d-a661-fe06ca598774" />
