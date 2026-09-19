@@ -6,6 +6,8 @@
 
 </div>
 
+<img width="292" height="200" alt="image" src="https://github.com/user-attachments/assets/ce4342c5-52e4-4f4c-8e5e-b63977651f33" />
+
 ---
 
 ## 🧑‍💻 Sobre mim
